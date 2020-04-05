@@ -27,3 +27,8 @@ Only required when using older CircuitPython boards
 ``` bash
 git submodule add https://github.com/peterpanstechland/RoboticsMasters_educar.git frozen/RoboticsMasters_educar
 ```
+
+
+## Docs
+
+https://robohatmm1-docs.readthedocs.io/en/latest/projects/rmeducar/
