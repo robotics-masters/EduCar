@@ -1,6 +1,10 @@
 # EduCar
 Code for RM Edu Car from Crowd Supply.  For use with CircuitPython.
 
+## Usage
+
+Place the `robohateducar.py` library file into the `libs/` folder on your Robo HAT MM1 CIRCUITPY drive.  Then use as per the example.
+
 ## Usage Example
 Place the following code into `code.py` on the CIRCUITPY drive.  Please edit as required.
 
