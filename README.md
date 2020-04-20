@@ -25,7 +25,7 @@ car.stop()
 ## Freeze Module
 Only required when using older CircuitPython boards
 ``` bash
-git submodule add https://github.com/peterpanstechland/RoboticsMasters_educar.git frozen/RoboticsMasters_educar
+git submodule add https://github.com/robotics-masters/EduCar.git frozen/robohateducar
 ```
 
 
